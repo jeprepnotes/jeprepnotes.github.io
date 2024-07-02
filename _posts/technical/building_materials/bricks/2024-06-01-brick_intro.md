@@ -6,7 +6,7 @@ description: Introduction of bricks.
 categories: [Technical, Building Material]
 tags: [introduction,building_material, brick]     # TAG names should always be lowercase
 image:
-  path: ../assets/img/brick_preview.jpg
+  path: ../../../../assets/img/brick_preview.jpg
 ---
 
 # Brick
@@ -23,7 +23,7 @@ image:
 ## Weight of brick. 
 * Weight of brick: **3 kg to 3.5 kg**
 
-## Ingredients of brick work 
+## Ingredients of brick earth 
 ***It the ingredients of soil by which brick is made. The trick to remmember it is `SALIMA`***
 * **Silica** -> 50% to 60%.
 * **Alumina** -> 20% to 30%.
@@ -52,7 +52,7 @@ image:
 
   ***Excessive amount of Alumina _(over 20% to 30%)_ : The edges of the brick won't be sharp in the edges and corners. And the shrinkage will increase due to which cracks will be generated in the brick***
 
-### 3.[Lime](https://www.wikiwand.com/en/lime_(material)) (4% to 5%)
+### 3. [Lime](https://www.wikiwand.com/en/lime_(material)) (4% to 5%)
 
   * The lime shouldn't be in **lump form**. It should be in **Powder form** always.
   * It reduces **shrinkage** in the brick.
@@ -76,7 +76,7 @@ image:
   ***Excessive amount of Magnesia _(over 1%)_, makes the brick yellwish and the decay of the brick will start***
 
 ### 6. [Alkalies](https://www.wikiwand.com/en/Alkali) (1%)
-  It shouldn't be present. It causes **efflorosence**.
+  It shouldn't be present. It causes **[efflorosence](https://www.wikiwand.com/en/Efflorescence)**.
 
 
 ## Harmful substances in Brick earth. 
@@ -97,5 +97,5 @@ image:
   * It cause **black core defect** in the brick.
 
 ### 6. [Sulphur](https://www.wikiwand.com/en/Sulfur)
-  * In the presences of sulphur extra **spongy swallen mass** will collect on the surface of the brick. 
+  * In the presences of sulphur extra **spongy swollen mass** will collect on the surface of the brick. 
 
