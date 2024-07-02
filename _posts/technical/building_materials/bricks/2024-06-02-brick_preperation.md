@@ -6,7 +6,7 @@ description: How the bricks are prepared and various process related to it.
 categories: [Technical, Building Material]
 tags: [preperation,building_material, brick]     # TAG names should always be lowercase
 image:
-  path: ../../../../assets/img/brick_prepare.png
+  path: /assets/img/brick_prepare.png
 math: true
 ---
 
@@ -79,7 +79,7 @@ Bricks are moulded with the help of mould, bricks are made in modular size **19 
 
 ### 2.2. Stock Board
 
-![Desktop View](../../../../assets/img/frog_brick.png){: width="700" height="400" }
+![Desktop View](/assets/img/frog_brick.png){: width="700" height="400" }
 _Brick frog_
 
 It is used to make frog in the brick. 
@@ -96,7 +96,7 @@ It is used to remove the extra soil from the top of the brick.
 
 ### 2.4 Pallet Board
 
-![Desktop View](../../../../assets/img/pallet_board.png){: width="700" height="400" }
+![Desktop View](/assets/img/pallet_board.png){: width="700" height="400" }
 _Pallet board_
 
 It is used to dry bricks after moulding and transportation 

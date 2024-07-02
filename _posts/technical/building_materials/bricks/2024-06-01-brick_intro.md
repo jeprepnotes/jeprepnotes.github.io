@@ -6,7 +6,7 @@ description: Introduction of bricks.
 categories: [Technical, Building Material]
 tags: [introduction,building_material, brick]     # TAG names should always be lowercase
 image:
-  path: ../../../../assets/img/brick_preview.jpg
+  path: /assets/img/brick_preview.jpg
 ---
 
 # Brick
