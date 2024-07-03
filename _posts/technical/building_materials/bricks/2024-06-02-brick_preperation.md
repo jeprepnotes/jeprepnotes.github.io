@@ -157,6 +157,8 @@ These Machines are classified in two categories
 - compressive strength of sundry brick is 21 kg/cm^2.
 
 ## 4. Burning 
+  After drying process bricks are burnt to make it more strong and increase their density. In this process many chemical reaction happens in the brick silica and alumina fuses together. 
+
 ### 4.1 Temp
   - Ecact temp: **1100 deg C**
   - Range: **900 c to 1200 C**
@@ -166,4 +168,81 @@ These Machines are classified in two categories
   - Underburnt brick will be soft and will fail to bear load
 
 ### 4.3 [Kiln](https://www.wikiwand.com/en/Kiln)
-  - 
+  ***A kiln is a large oven used to burn bricks***
+
+  The following types of kilns are used for brick manufacturing
+  1. Clamp kiln (pazawah kiln)
+  2. Intermittent kiln.
+  3. Continous kilns.
+
+#### 1. Clamp kiln
+![Desktop View](/assets/img/clamp_kiln.jpg){: width="700" height="400" }
+_clamp kiln section_
+
+
+![Desktop View](/assets/img/clamp_kiln_image.png){: width="700" height="400" }
+_clamp kiln image_
+
+  - It's a temporary kiln.
+  - It's hard to control its temperature.
+  - It's more economical comapered to other. 
+  - Very skilled workers are not required in this kiln
+  - It can be only used once.
+  - It takes 4 to 6 month to burn brick in this kiln (including both loading and unloading).
+  - Only 50% to 60% good bricks are manufactured in this kiln.
+  - Almost 1 lakh (100k) bricks can be made in this kiln at a single time.
+  - It's of trapezoidal shape. 
+
+#### 2. Intermittent Kilns
+  - In these kind of kiln we load bricks burn them and let them cool down and then unload them.
+  - These kiln are not continous. 
+  - Capacity of these kiln is higher than pazawah kilns.
+  - Almost 70% t0 80% first class bricks are manufactured in these kilns. 
+
+#### 3. Continous kiln
+***Thsee kilns are continous, loading, unloading, heating, cooling, happen simultaneously***
+
+These kilns are of three types. 
+
+  1. Bull's trench kiln.
+  2. Hoffman's kiln.
+  3. Tunnel kiln
+
+##### 1. Bull's trench kiln
+
+  ![Desktop View](/assets/img/bull_trench.png){: width="700" height="400" }
+
+  - These kiln is oval in shape.
+  - In this kiln raw or green bricks are loaded and then pre heated and after that burned and then cooled down and finally unloaded. 
+  - 70% to 80% first class bricks are manufactured in this. 
+  - Bull's trench kiln can manufacture 2 to 3 lakh brick in a year. 
+  - Its chamber capacity is 10k
+  - It's not functional in rainy seasons.
+  - It manufacture 70 to 80% first class bricks.
+  - It's semi continous. 
+
+
+##### 2. Hoffman's kiln
+
+  ![Desktop View](/assets/img/hoffman_kiln.jpg){: width="700" height="400" }
+  _hoffman kiln image_
+
+  ![Desktop View](/assets/img/hoffman_kiln_cross_section.PNG){: width="700" height="400" }
+  _hoffman kiln cross section_
+
+  - This kiln has large roof so it can work even in rainy seasons. 
+  - It's constructed overground.
+  - It's oval in shape. 
+  - It's divided in 12 chambers. 
+  - It can function even in rainy season. 
+  - chamber 1 is used for loading the brick, chamber 2 to 5 are used for drying and pre heating, chamber 6 and 7 are used for heating, chamber 8 to 11 are used for cooling, and chamber 12 is used for unloading.
+  - The cool air will enter the chamber 1 to 12, the cool air will go through chamber 11 to 8 helping bricks to cool. That air then goes through chamber 7 and 6 and air gets hot. Then that air helps with preheating at chamber 5 to 2 and escapes at the chamber 2 with the help of chimney. 
+  - it manufacture around 40 lakh brick in a year. 
+  - It's chamber capacity is 25k. 
+
+##### 3. Tunnel kiln
+
+  ![Desktop View](/assets/img/tunnel_kiln.jpg){: width="700" height="400" }
+  _tunnel kiln image_
+
+  In this there is a large tunnel straight eleptical or oval in shape. There will be a fire section in the middle of kiln and the bricks are loaded in the trolley and pushed to the fire section bricks are preheated and dried before burning and cooled down before unloading. These kiln can be effective for large scale projects and They give good quality bricks.
