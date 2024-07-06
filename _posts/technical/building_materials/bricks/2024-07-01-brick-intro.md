@@ -1,7 +1,7 @@
 ---
 title: Brick Introduction 
 author: <69>
-date: 2024-06-01
+date: 2024-07-01
 description: Introduction of bricks. 
 categories: [Technical, Building Material]
 tags: [introduction,building_material, brick]     # TAG names should always be lowercase

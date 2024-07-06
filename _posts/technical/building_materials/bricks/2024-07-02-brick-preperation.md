@@ -1,7 +1,7 @@
 ---
 title: Preperation of Brick 
 author: <69>
-date: 2024-06-02
+date: 2024-07-02
 description: How the bricks are prepared and various process related to it. 
 categories: [Technical, Building Material]
 tags: [preperation,building_material, brick]     # TAG names should always be lowercase
