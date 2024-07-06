@@ -119,6 +119,8 @@ _King closer_
 When the corner of the brick is cut at the half of it's length (l/2) and half of the breadth (b/2) then that brick is known as king closer. 
 
 ![Desktop View](/assets/img/Panel_door.jpg){: width="200" height="500" }
+
+
 These bricks are used in [jambs](https://www.wikiwand.com/en/Jamb) of doors and windows.
 
 #### Queen closer
