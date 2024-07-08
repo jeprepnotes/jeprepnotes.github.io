@@ -50,7 +50,7 @@ Bricks are moulded with the help of mould, bricks are made in modular size **19 
 ***Materials used for moulding are***
 
 ### 2.1. Moulds
-  ***Moulds are of two types**
+  **Moulds are of two types**
   
   1. Steel mould
   2. Wooden mould

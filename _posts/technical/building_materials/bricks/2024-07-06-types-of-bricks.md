@@ -4,7 +4,7 @@ author: <69>
 date: 2024-07-06
 description: Types of various kind of bricks. 
 categories: [Technical, Building Material]
-tags: [types ,building_material, brick]     # TAG names should always be lowercase
+tags: [types ,building_material, brick]
 image:
   path: /assets/img/types-bricks-classification.jpg
 ---
@@ -169,6 +169,30 @@ _Bullnose Brick_
 - To make the sharp edges of the wal rounded.
 - It's used in draining work. 
 
+#### Cant brick
+
+![Desktop View](/assets/img/cant_brick.jpg){: width="500" height="300" }
+_Double cant brick_
+
+- When one corner of the brick is cut it is known as single cant brick.
+- If two corners are cut from the brick it is known as double cant brick.
+- It is used in jambs and to give different angles in the wall. 
+
+#### Squint brick.
+
+![Desktop View](/assets/img/squint_brick.jpg){: width="500" height="300" }
+_squint brick_
+
+- When the one corner is cut at the 45 deg of its width and another cornder is also cut it's known as squint brick. 
+- It is used in exterior angle and interior angles.
+
+
+#### Refactory brick / fire resistant brick
+
+- This brick is used to bear extreme temperature. 
+- This brick is burnt at 1700 deg c to 1800 deg c.
+- This brick is used in compressive chamber.
+- Lining of chimney and furnance, floors of factories. 
 
 ## **NOTES** 
 
@@ -176,3 +200,4 @@ _Bullnose Brick_
 - **Soling**: A layer of dry brick put below the foundation concrete in the case of soft soil.
 - **Dressing**: Process of removing of impurities of clay using iron ores.
 - **Metre square wall**: Usually wall is measured in m^3 but when the brick wall is measured in metere square it is known as metere square wall or partition wall. Its thickness is 10cm 
+
